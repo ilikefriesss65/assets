@@ -7199,7 +7199,10 @@
     "cover": "{COVER_URL}/805.png",
     "url": "{HTML_URL}/805.html", 
     "author": "Ndemic Creations, Reeyuki",
-    "authorLink": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc"
+    "authorLink": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 806,
