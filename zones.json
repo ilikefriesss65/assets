@@ -6997,7 +6997,7 @@
     "id": 785,
     "name": "Geometry Dash",
     "cover": "{COVER_URL}/785.png",
-    "url": "{HTML_URL}/785-upd.html",
+    "url": "{HTML_URL}/785-upd2.html",
     "author": "RobTop Games",
     "authorLink": "https://geometrydash.com",
     "special": [
@@ -7127,6 +7127,98 @@
     "url": "{HTML_URL}/797.html", 
     "author": "starrymari",
     "authorLink": "https://starrymari.itch.io/fih",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 798,
+    "name": "Hungry Lamu",
+    "cover": "{COVER_URL}/798.png",
+    "url": "{HTML_URL}/798.html", 
+    "author": "kulurc / kulu",
+    "authorLink": "https://kulurc.itch.io/hungry-lamu"
+  },
+  {
+    "id": 799,
+    "name": "Hungry Lamu 2",
+    "cover": "{COVER_URL}/799.png",
+    "url": "{HTML_URL}/799.html", 
+    "author": "kulurc / kulu",
+    "authorLink": "https://kulurc.itch.io/hungry-lamu-2"
+  },
+  {
+    "id": 800,
+    "name": "Rocket Goal.io",
+    "cover": "{COVER_URL}/800.png",
+    "url": "{HTML_URL}/800.html", 
+    "author": "Rocket Goal team",
+    "authorLink": "https://rocketgoal.io"
+  },
+  {
+    "id": 801,
+    "name": "Trees Hate You",
+    "cover": "{COVER_URL}/801.png",
+    "url": "{HTML_URL}/801.html", 
+    "author": "tykenn",
+    "authorLink": "https://tykenn.itch.io/trees-hate-you"
+  },
+  {
+    "id": 802,
+    "name": "Scampton The Great",
+    "cover": "{COVER_URL}/802.png",
+    "url": "{HTML_URL}/802.html", 
+    "author": "sad_bread, shyxder",
+    "authorLink": "https://gamejolt.com/games/1225/1015970",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 803,
+    "name": "Bendy and the Ink Machine: ALL CHAPTERS",
+    "cover": "{COVER_URL}/803.png",
+    "url": "{HTML_URL}/803.html", 
+    "author": "Joey Drew Studios",
+    "authorLink": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 804,
+    "name": "Vampire Survivors",
+    "cover": "{COVER_URL}/804.png",
+    "url": "{HTML_URL}/804.html", 
+    "author": "Poncle",
+    "authorLink": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
+  },
+  {
+    "id": 805,
+    "name": "Plauge Inc",
+    "cover": "{COVER_URL}/805.png",
+    "url": "{HTML_URL}/805.html", 
+    "author": "Ndemic Creations, Reeyuki",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc"
+  },
+  {
+    "id": 806,
+    "name": "Slendytubbies 2",
+    "cover": "{COVER_URL}/806.png",
+    "url": "{HTML_URL}/806.html",  
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 807,
+    "name": "Slendytubbies 2D",
+    "cover": "{COVER_URL}/807.png",
+    "url": "{HTML_URL}/807.html",  
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
     "special": [
       "port"
     ]
