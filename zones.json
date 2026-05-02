@@ -7225,5 +7225,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 808,
+    "name": "Spaceflight Simulator",
+    "cover": "{COVER_URL}/808.png",
+    "url": "{HTML_URL}/808.html",  
+    "author": "Team Curiosity",
+    "authorLink": "https://store.steampowered.com/app/1718870/Spaceflight_Simulator/",
+    "special": [
+      "port"
+    ]
   }
 ]
