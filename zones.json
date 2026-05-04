@@ -7236,5 +7236,53 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 809,
+    "name": "Rhythm Heaven",
+    "cover": "{COVER_URL}/809.png",
+    "url": "{HTML_URL}/809.html",  
+    "author": "Kazuyoshi Osawa, Nintendo",
+    "authorLink": "https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Need For Speed: Carbon",
+    "cover": "{COVER_URL}/810.png",
+    "url": "{HTML_URL}/810.html",  
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/en/games/need-for-speed",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Need For Speed: Most Wanted",
+    "cover": "{COVER_URL}/811.png",
+    "url": "{HTML_URL}/811.html",  
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/en/games/need-for-speed",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+  {
+    "id": 812,
+    "name": "Need For Speed: Underground 2",
+    "cover": "{COVER_URL}/812.png",
+    "url": "{HTML_URL}/812.html",  
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/en/games/need-for-speed",
+    "special": [
+      "emulator",
+      "gba"
+    ]
   }
 ]
