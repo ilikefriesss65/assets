@@ -7143,7 +7143,7 @@
     "id": 799,
     "name": "Hungry Lamu 2",
     "cover": "{COVER_URL}/799.png",
-    "url": "{HTML_URL}/799.html", 
+    "url": "{HTML_URL}/799-fix.html", 
     "author": "kulurc / kulu",
     "authorLink": "https://kulurc.itch.io/hungry-lamu-2"
   },
@@ -7151,7 +7151,7 @@
     "id": 800,
     "name": "Rocket Goal.io",
     "cover": "{COVER_URL}/800.png",
-    "url": "{HTML_URL}/800.html", 
+    "url": "{HTML_URL}/800-fix.html", 
     "author": "Rocket Goal team",
     "authorLink": "https://rocketgoal.io"
   },
@@ -7159,7 +7159,7 @@
     "id": 801,
     "name": "Trees Hate You",
     "cover": "{COVER_URL}/801.png",
-    "url": "{HTML_URL}/801.html", 
+    "url": "{HTML_URL}/801-fix.html", 
     "author": "tykenn",
     "authorLink": "https://tykenn.itch.io/trees-hate-you"
   },
@@ -7178,7 +7178,7 @@
     "id": 803,
     "name": "Bendy and the Ink Machine: ALL CHAPTERS",
     "cover": "{COVER_URL}/803.png",
-    "url": "{HTML_URL}/803.html", 
+    "url": "{HTML_URL}/803-fix.html", 
     "author": "Joey Drew Studios",
     "authorLink": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
     "special": [
