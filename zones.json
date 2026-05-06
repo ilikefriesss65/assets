@@ -7418,5 +7418,16 @@
       "emulator",
       "nds"
     ]
+  },
+  {
+    "id": 825,
+    "name": "Cruelty Squad",
+    "cover": "{COVER_URL}/825.png",
+    "url": "{HTML_URL}/825.html",  
+    "author": "Consumer Softproducts, dizzy",
+    "authorLink": "https://store.steampowered.com/app/1388770/Cruelty_Squad/",
+    "special": [
+      "port"
+    ]
   }
 ]
