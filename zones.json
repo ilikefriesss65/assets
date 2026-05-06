@@ -7306,5 +7306,46 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 815,
+    "name": "Baldi's Basics The Ultra Decompile",
+    "cover": "{COVER_URL}/815.png",
+    "url": "{HTML_URL}/815.html",  
+    "author": "SeenWonderAlex",
+    "authorLink": "https://seenwonderalex.itch.io/baldis-basics-tud"
+  },
+  {
+    "id": 816,
+    "name": "-3",
+    "cover": "{COVER_URL}/816.png",
+    "url": "{HTML_URL}/816.html",  
+    "author": "Mauzer2137",
+    "authorLink": "https://gamebanana.com/mods/647218",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 817,
+    "name": "-b",
+    "cover": "{COVER_URL}/817.png",
+    "url": "{HTML_URL}/817.html",  
+    "author": "bermud",
+    "authorLink": "https://gamebanana.com/mods/669311",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 818,
+    "name": "t³ (T cubed)",
+    "cover": "{COVER_URL}/818.png",
+    "url": "{HTML_URL}/818.html",  
+    "author": "Blidb",
+    "authorLink": "https://gamebanana.com/mods/674558",
+    "special": [
+      "port"
+    ]
   }
 ]
