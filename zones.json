@@ -7295,5 +7295,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 814,
+    "name": "MiSide",
+    "cover": "{COVER_URL}/814.png",
+    "url": "{HTML_URL}/814.html",  
+    "author": "AIHASTO",
+    "authorLink": "https://store.steampowered.com/app/2527500/MiSide/",
+    "special": [
+      "port"
+    ]
   }
 ]
