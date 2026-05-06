@@ -7363,7 +7363,7 @@
     "id": 820,
     "name": "Phoenix Wright - Ace Attorney",
     "cover": "{COVER_URL}/820.png",
-    "url": "{HTML_URL}/820.html",  
+    "url": "{HTML_URL}/820-fix.html",  
     "author": "Capcom",
     "authorLink": "https://www.ace-attorney.com/",
     "special": [
@@ -7375,7 +7375,7 @@
     "id": 821,
     "name": "Apollo Justice - Ace Attorney",
     "cover": "{COVER_URL}/821.png",
-    "url": "{HTML_URL}/821.html",  
+    "url": "{HTML_URL}/821-fix.html",  
     "author": "Capcom",
     "authorLink": "https://www.ace-attorney.com/",
     "special": [
@@ -7399,7 +7399,7 @@
     "id": 823,
     "name": "Ace Attorney Investigations - Miles Edgeworth",
     "cover": "{COVER_URL}/823.png",
-    "url": "{HTML_URL}/823.html",  
+    "url": "{HTML_URL}/823-fix.html",  
     "author": "Capcom",
     "authorLink": "https://www.ace-attorney.com/",
     "special": [
