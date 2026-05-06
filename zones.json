@@ -7347,5 +7347,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 819,
+    "name": "20 Minutes Till Dawn",
+    "cover": "{COVER_URL}/819.png",
+    "url": "{HTML_URL}/819.html",  
+    "author": "Flanne, Rah, Bog",
+    "authorLink": "https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/",
+    "special": [
+      "port"
+    ]
   }
 ]
