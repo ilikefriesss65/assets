@@ -7358,5 +7358,65 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 820,
+    "name": "Phoenix Wright - Ace Attorney",
+    "cover": "{COVER_URL}/820.png",
+    "url": "{HTML_URL}/820.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 821,
+    "name": "Apollo Justice - Ace Attorney",
+    "cover": "{COVER_URL}/821.png",
+    "url": "{HTML_URL}/821.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 822,
+    "name": "Phoenix Wright - Ace Attorney - Justice for All",
+    "cover": "{COVER_URL}/822.png",
+    "url": "{HTML_URL}/822.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 823,
+    "name": "Ace Attorney Investigations - Miles Edgeworth",
+    "cover": "{COVER_URL}/823.png",
+    "url": "{HTML_URL}/823.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 824,
+    "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
+    "cover": "{COVER_URL}/824.png",
+    "url": "{HTML_URL}/824.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.ace-attorney.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
   }
 ]
