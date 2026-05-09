@@ -7552,5 +7552,16 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 837,
+    "name": "Into Space 2",
+    "cover": "{COVER_URL}/837.png",
+    "url": "{HTML_URL}/837.html",  
+    "author": "Armor Games",
+    "authorLink": "https://www.newgrounds.com/portal/view/603934",
+    "special": [
+      "flash"
+    ]
   }
 ]
