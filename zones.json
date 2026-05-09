@@ -7533,5 +7533,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 835,
+    "name": "YoHoHo.io",
+    "cover": "{COVER_URL}/835.png",
+    "url": "{HTML_URL}/835.html",  
+    "author": "Exodragon Games",
+    "authorLink": "https://exodragon.com/"
   }
 ]
