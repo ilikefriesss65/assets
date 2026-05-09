@@ -7451,5 +7451,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 828,
+    "name": "Animal Crossing (GAMECUBE)",
+    "cover": "{COVER_URL}/828.png",
+    "url": "{HTML_URL}/828.html",  
+    "author": "Nintendo, turtlekiosk",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "port"
+    ]
   }
 ]
