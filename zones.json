@@ -7541,5 +7541,16 @@
     "url": "{HTML_URL}/835.html",  
     "author": "Exodragon Games",
     "authorLink": "https://exodragon.com/"
+  },
+  {
+    "id": 836,
+    "name": "Friday Night Funkin vs Shucks v2",
+    "cover": "{COVER_URL}/836.png",
+    "url": "{HTML_URL}/836.html",  
+    "author": "CurtisDev",
+    "authorLink": "https://gamebanana.com/mods/519908",
+    "special": [
+      "fnf"
+    ]
   }
 ]
