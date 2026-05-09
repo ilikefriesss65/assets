@@ -7569,7 +7569,15 @@
     "name": "Vena",
     "cover": "{COVER_URL}/838.png",
     "url": "{HTML_URL}/838.html",  
-    "author": "Armor Games",
-    "authorLink": "Leonhard Kohl-Lörting"
+    "author": "Leonhard Kohl-Lörting",
+    "authorLink": "https://loerting.itch.io/vena"
+  },
+  {
+    "id": 839,
+    "name": "s.p.l.i.t",
+    "cover": "{COVER_URL}/839.png",
+    "url": "{HTML_URL}/839.html",  
+    "author": "Mike Klubnika",
+    "authorLink": "https://store.steampowered.com/app/3684610/split/"
   }
 ]
