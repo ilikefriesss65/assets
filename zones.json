@@ -7440,5 +7440,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 827,
+    "name": "Totally Accurate Battle Simulator (TABS)",
+    "cover": "{COVER_URL}/827.png",
+    "url": "{HTML_URL}/827.html",  
+    "author": "Landfall",
+    "authorLink": "https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
+    "special": [
+      "port"
+    ]
   }
 ]
