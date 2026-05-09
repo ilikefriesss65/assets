@@ -7429,5 +7429,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 826,
+    "name": "Just Shapes & Beats",
+    "cover": "{COVER_URL}/826.png",
+    "url": "{HTML_URL}/826.html",  
+    "author": "Berzerk Studio",
+    "authorLink": "https://store.steampowered.com/app/531510/Just_Shapes__Beats/",
+    "special": [
+      "port"
+    ]
   }
 ]
