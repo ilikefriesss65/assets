@@ -7039,7 +7039,7 @@
     "id": 789,
     "name": "Stardew Valley",
     "cover": "{COVER_URL}/789.png",
-    "url": "{HTML_URL}/789.html", 
+    "url": "{HTML_URL}/789-fix.html", 
     "author": "The Secret Police Limited, ConcernedApe, Cirsius",
     "authorLink": "https://www.stardewvalley.net/",
     "special": [
