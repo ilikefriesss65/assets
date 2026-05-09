@@ -7522,5 +7522,16 @@
       "emulator",
       "dos"
     ]
+  },
+  {
+    "id": 834,
+    "name": "I Wanna Be The Guy",
+    "cover": "{COVER_URL}/834.png",
+    "url": "{HTML_URL}/834.html",  
+    "author": "Michael \"Kayin\" O'Reilly",
+    "authorLink": "https://iwbtg.kayin.moe/",
+    "special": [
+      "port"
+    ]
   }
 ]
