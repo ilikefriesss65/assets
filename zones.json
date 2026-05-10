@@ -7439,7 +7439,8 @@
     "authorLink": "https://store.steampowered.com/app/531510/Just_Shapes__Beats/",
     "special": [
       "port"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": 827,
@@ -7450,7 +7451,8 @@
     "authorLink": "https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
     "special": [
       "port"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": 828,
@@ -7579,6 +7581,17 @@
     "url": "{HTML_URL}/839.html",  
     "author": "Mike Klubnika",
     "authorLink": "https://store.steampowered.com/app/3684610/split/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 840,
+    "name": "My Talking Baby Hippo",
+    "cover": "{COVER_URL}/840.png",
+    "url": "{HTML_URL}/840.html",  
+    "author": "Outfit7",
+    "authorLink": "https://outfit7.com/",
     "special": [
       "port"
     ]
