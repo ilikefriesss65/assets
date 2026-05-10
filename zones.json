@@ -7595,5 +7595,17 @@
     "special": [
       "port"
     ]
-  }
+  },
+  {
+    "id": 841,
+    "name": "WarioWare: Touched!",
+    "cover": "{COVER_URL}/841.png",
+    "url": "{HTML_URL}/841.html",  
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
 ]
