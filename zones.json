@@ -6242,18 +6242,6 @@
     "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow"
   },
   {
-    "id": 710,
-    "name": "Five Nights at Epstein's",
-    "cover": "{COVER_URL}/710.png",
-    "url": "{HTML_URL}/710-fix.html",
-    "author": "EvanProductions",
-    "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
-    "special": [
-      "port"
-    ],
-    "featured": true
-  },
-  {
     "id": 711,
     "name": "Antonblast",
     "cover": "{COVER_URL}/711.png",
@@ -6654,17 +6642,6 @@
     "url": "{HTML_URL}/750-u.html",
     "author": "Free_Breath",
     "authorLink": "https://free-breath.itch.io/five-night-at-last-breath-epstein",
-    "special": [
-      "port"
-    ]
-  },
-  {
-    "id": 751,
-    "name": "Jeffrey Epstein Basics In Education And Kidnapping",
-    "cover": "{COVER_URL}/751.png",
-    "url": "{HTML_URL}/751.html",
-    "author": "Zakaria_ALZ",
-    "authorLink": "https://zakaria-alz.itch.io/jeffrey-epsteins-basics-in-education-and-kidnapping",
     "special": [
       "port"
     ]
